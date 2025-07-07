@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @MikeAdamsMews
-- 👀 I’m interested in ... APIs and integrations within the Travel & Hospitality industry (esp. hotels)
-- 🌱 I’m currently learning ... tons of modern tools; interested in OpenAPI, Domain-Driven API Design, Restful Objects, HTNG
-- 💞️ I’m looking to collaborate on ... industry standards, especially for semantics, i.e. agreeing a standard way to model a reservation, profile, etc.
-- 📫 How to reach me ... mike.adams@mews.com
+👋 Hi, I’m __@MikeAdamsDev__ (formerly __@MikeAdamsMews__)
 
-<!---
-MikeAdamsMews/MikeAdamsMews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in ...
+- Technical documentation
+- APIs and integrations
+- Travel & hospitality
+- Leveraging the power of AI
+
+🌱 I'm currently developing a Blog site using [Hugo](https://gohugo.io/), and re-aligning my personal IT having gone from owning one MacBook to three in the space of a week.
+
+📷 I'm also a photographer and have just returned from an event with 1800 images to process. That presented its own IT challenges, since I couldn't take a Mac on location and had to back up image files to an SSD using my Android smartphone and a powered hub.
+It turns out those universal UK-to-EU adapters don't work in Sicily (aagh!), and my new media card reader didn't recognise one of the new SD cards (aaargh!). Isn't it interesting that almost every technical problem – in both hardware and software – seems to come down to __integration standards__.
+
+📫 Want to collaborate? Find me on [LinkedIn](https://www.linkedin.com/in/mikeadamsprofessional/).
